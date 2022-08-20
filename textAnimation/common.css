@@ -1,0 +1,6 @@
+@media (max-width:300px) {
+    .text{
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+}
